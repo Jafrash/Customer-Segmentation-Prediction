@@ -1,12 +1,5 @@
 # Customer-Segmentation
 
-![GetPaidStock com -635e3d2331dbc](https://user-images.githubusercontent.com/73393430/198870602-4f89b39b-78f8-4626-ac4e-63d9943a0adf.jpg)
-
-<div class="alert alert-block alert-warning">
-Please note that plotly figure will not show when it is uploaded to GitHib due to static stuff. So you can rerun the code once you have it on your Local machine or check out the Link I include in the repo that display the notebook on web.
-
-Click [here](https://nbviewer.org/github/ibrahim-ogunbiyi/Customer-Segmentation/blob/main/Customer%20Segmentation.ipynb) to see the note on nbviewer.
-</div>
 
 # Business Problem
 Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
